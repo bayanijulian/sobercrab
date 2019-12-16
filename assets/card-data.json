@@ -1,0 +1,507 @@
+[
+  {
+    "number": 1,
+    "type":"generic",
+    "playerCount": 0,
+    "text": "All the girls take a drink!"
+  },
+  {
+    "number": 2,
+    "type":"generic",
+    "playerCount": 0,
+    "text": "All the boys take a drink!"
+  },
+  {
+    "number": 3,
+    "type":"generic",
+    "playerCount": 1,
+    "text": "@1 take a drink!"
+  },
+  {
+    "number": 4,
+    "type":"generic",
+    "playerCount": 1,
+    "text": "@1 give a drink!"
+  },
+  {
+    "number": 5,
+    "type":"rule",
+    "playerCount": 2,
+    "text": "@1 date @2. @2 drinks when @1 drinks."
+  },
+  {
+    "number": 6,
+    "type":"game",
+    "playerCount": 1,
+    "text": "@1 name something you've never done. Anyone who has must drink!"
+  },
+  {
+    "number": 7,
+    "type":"rule",
+    "playerCount": 1,
+    "text": "@1 is now Question Master (until further notice). Anyone that answers @1's questions must drink!"
+  },
+  {
+    "number": 8,
+    "type":"rule",
+    "playerCount": 1,
+    "text": "@1 is now Thumb Master (until further notice). When @1 puts their thumb down, the last one to put their thumb down drinks"
+  },
+  {
+    "number": 9,
+    "type":"rule",
+    "playerCount": 0,
+    "text": "No swearing (until further notice). Anyone who swears drinks!"
+  },
+  {
+    "number": 10,
+    "type":"dare",
+    "playerCount": 1,
+    "text": "@1 read your last text. Give a drink if you do, otherwise you drink!"
+  },
+  {
+    "number": 11,
+    "type":"dare",
+    "playerCount": 1,
+    "text": "@1 show your internet history. Give a drink if you do, otherwise you drink!"
+  },
+  {
+    "number": 12,
+    "type":"dare",
+    "playerCount": 1,
+    "text": "@1 text your mom - 'I love you'. Give a drink if you do, otherwise you drink!"
+  },
+  {
+    "number": 13,
+    "type":"truth",
+    "playerCount": 0,
+    "text": "Drink if you've kissed anyone in this room!"
+  },
+  {
+    "number": 14,
+    "type":"truth",
+    "playerCount": 0,
+    "text": "Drink if you've hooked up with anyone in this room!"
+  },
+  {
+    "number": 15,
+    "type":"game",
+    "playerCount": 1,
+    "text": "Waterfall! You cannot stop drinking until the person to your left stops. @1 starts!"
+  },
+  {
+    "number": 16,
+    "type":"game",
+    "playerCount": 2,
+    "text": "@1 arm wrestle @2. Loser drinks!"
+  },
+  {
+    "number": 17,
+    "type":"dare",
+    "playerCount": 1,
+    "text": "@1 text an ex - 'I miss you'. Give a drink if you do, otherwise you drink!"
+  },
+  {
+    "number": 18,
+    "type":"dare",
+    "playerCount": 1,
+    "text": "@1 post a group pic to your story. Everyone drinks!"
+  },
+  {
+    "number": 19,
+    "type":"game",
+    "playerCount": 1,
+    "text": "Everyone name a color. First one who can't drinks! @1 starts!"
+  },
+  {
+    "number": 20,
+    "type":"game",
+    "playerCount": 1,
+    "text": "Bust a jive. @1 starts!"
+  },
+  {
+    "number": 21,
+    "type":"game",
+    "playerCount": 1,
+    "text": "Vroom! @1 starts!"
+  },
+  {
+    "number": 22,
+    "type":"truth",
+    "playerCount": 0,
+    "text": "Drink if you have ever smoked before!"
+  },
+  {
+    "number": 23,
+    "type":"truth",
+    "playerCount": 0,
+    "text": "Drink if you have ever been arrested!"
+  },
+  {
+    "number": 24,
+    "type":"truth",
+    "playerCount": 0,
+    "text": "Drink if you have ever had a threesome!"
+  },
+  {
+    "number": 25,
+    "type":"truth",
+    "playerCount": 0,
+    "text": "Drink if you're a virgin!"
+  },
+  {
+    "number": 26,
+    "type":"truth",
+    "playerCount": 0,
+    "text": "Drink if you're single!"
+  },
+  {
+    "number": 27,
+    "type":"game",
+    "playerCount": 1,
+    "text": "Everyone name a porn category. First one who can't drinks! @1 starts!"
+  },
+  {
+    "number": 28,
+    "type":"game",
+    "playerCount": 1,
+    "text": "Everyone name a beer. First one who can't drinks! @1 starts!"
+  },
+  {
+    "number": 29,
+    "type":"game",
+    "playerCount": 1,
+    "text": "Everyone name a liquor. First one who can't drinks! @1 starts!"
+  },
+  {
+    "number": 30,
+    "type":"game",
+    "playerCount": 1,
+    "text": "Everyone name a holiday. First one who can't drinks! @1 starts!"
+  },
+  {
+    "number": 31,
+    "type":"game",
+    "playerCount": 1,
+    "text": "Everyone name a country. First one who can't drinks! @1 starts!"
+  },
+  {
+    "number": 32,
+    "type":"game",
+    "playerCount": 1,
+    "text": "Everyone name an animal. First one who can't drinks! @1 starts!"
+  },
+  {
+    "number": 33,
+    "type":"rule",
+    "playerCount": 1,
+    "text": "@1 is now Question Master (until further notice). Anyone that answers @1's questions must drink!"
+  },
+  {
+    "number": 34,
+    "type":"rule",
+    "playerCount": 1,
+    "text": "@1 is now Thumb Master (until further notice). When @1 puts their thumb down, the last one to put their thumb down drinks"
+  },
+  {
+    "number": 35,
+    "type":"rule",
+    "playerCount": 1,
+    "text": "@1 is now Question Master (until further notice). Anyone that answers @1's questions must drink!"
+  },
+  {
+    "number": 36,
+    "type":"rule",
+    "playerCount": 1,
+    "text": "@1 is now Thumb Master (until further notice). When @1 puts their thumb down, the last one to put their thumb down drinks"
+  },
+  {
+    "number": 37,
+    "type":"rule",
+    "playerCount": 1,
+    "text": "@1 is now Question Master (until further notice). Anyone that answers @1's questions must drink!"
+  },
+  {
+    "number": 38,
+    "type":"rule",
+    "playerCount": 1,
+    "text": "@1 is now Thumb Master (until further notice). When @1 puts their thumb down, the last one to put their thumb down drinks"
+  },
+  {
+    "number": 39,
+    "type":"rule",
+    "playerCount": 1,
+    "text": "Anyone who has eye contact with @1 must drink!"
+  },
+  {
+    "number": 40,
+    "type":"truth",
+    "playerCount": 1,
+    "text": "Give a drink if you can speak another language"
+  },
+  {
+    "number": 41,
+    "type":"truth",
+    "playerCount": 1,
+    "text": "Drink if you have ever hooked up with someone from a dating app"
+  },
+  {
+    "number": 42,
+    "type":"truth",
+    "playerCount": 1,
+    "text": "Drink if you have ever hooked up with someone from a dating app"
+  },
+  {
+    "number": 43,
+    "type":"generic",
+    "playerCount": 1,
+    "text": "@1 take a drink!"
+  },
+  {
+    "number": 44,
+    "type":"generic",
+    "playerCount": 1,
+    "text": "@1 give a drink!"
+  },
+  {
+    "number": 45,
+    "type":"generic",
+    "playerCount": 1,
+    "text": "@1 take a drink!"
+  },
+  {
+    "number": 46,
+    "type":"generic",
+    "playerCount": 1,
+    "text": "@1 give a drink!"
+  },
+  {
+    "number": 47,
+    "type":"generic",
+    "playerCount": 1,
+    "text": "@1 take a drink!"
+  },
+  {
+    "number": 48,
+    "type":"generic",
+    "playerCount": 1,
+    "text": "@1 give a drink!"
+  },
+  {
+    "number": 49,
+    "type":"game",
+    "playerCount": 1,
+    "text": "@1 give a drink if you can do more than 10 push ups, otherwise you drink!"
+  },
+  {
+    "number": 50,
+    "type":"rule",
+    "playerCount": 1,
+    "text": "Everyone must drink with their left hand. Drink again if you forget!"
+  },
+  {
+    "number": 51,
+    "type":"game",
+    "playerCount": 2,
+    "text": "@1 guess the underwear color of @2. Give a drink if you're right, otherwise you drink!"
+  },
+  {
+    "number": 52,
+    "type":"game",
+    "playerCount": 0,
+    "text": "Heaven! Last person to point up drinks!"
+  },
+  {
+    "number": 53,
+    "type":"game",
+    "playerCount": 0,
+    "text": "Last person to clap your hand drinks"
+  },
+  {
+    "number": 54,
+    "type":"game",
+    "playerCount": 0,
+    "text": "Everyone balance on a leg. First to fall drinks!"
+  },
+  {
+    "number": 55,
+    "type":"game",
+    "playerCount": 1,
+    "text": "Everyone older than @1 drinks!"
+  },
+  {
+    "number": 56,
+    "type":"game",
+    "playerCount": 1,
+    "text": "Everyone younger than @1 drinks!"
+  },
+  {
+    "number": 57,
+    "type":"game",
+    "playerCount": 1,
+    "text": "Everyone shorter than @1 drinks!"
+  },
+  {
+    "number": 58,
+    "type":"game",
+    "playerCount": 1,
+    "text": "Everyone taller than @1 drinks!"
+  },
+  {
+    "number": 59,
+    "type":"generic",
+    "playerCount": 0,
+    "text": "Give a drink if you have an Android!"
+  },
+  {
+    "number": 60,
+    "type":"rule",
+    "playerCount": 0,
+    "text": "Remain silent. First person to break this must drink"
+  },
+  {
+    "number": 61,
+    "type":"generic",
+    "playerCount": 0,
+    "text": "Give a drink if you're wearing glasses"
+  },
+  {
+    "number": 62,
+    "type":"game",
+    "playerCount": 0,
+    "text": "Nose goes! Last person to touch their nose drinks!"
+  },
+  {
+    "number": 63,
+    "type":"truth",
+    "playerCount": 0,
+    "text": "Drink if you never went to prom"
+  },
+  {
+    "number": 64,
+    "type":"generic",
+    "playerCount": 0,
+    "text": "Give a drink for each country you've visited"
+  },
+  {
+    "number": 65,
+    "type":"truth",
+    "playerCount": 0,
+    "text": "Drink if your Facebook profile picture isn't from this month"
+  },
+  {
+    "number": 66,
+    "type":"truth",
+    "playerCount": 0,
+    "text": "Give a drink if you have the most Instagram followers"
+  },
+  {
+    "number": 67,
+    "type":"game",
+    "playerCount": 1,
+    "text": "Everyone name a sex position. First one who can't drinks! @1 starts!"
+  },
+  {
+    "number": 68,
+    "type":"game",
+    "playerCount": 1,
+    "text": "Everyone name a word that rhyme with 'stitch'. First one who can't drinks! @1 starts!"
+  },
+  {
+    "number": 69,
+    "type":"game",
+    "playerCount": 1,
+    "text": "Everyone name a word that rhyme with 'luck'. First one who can't drinks! @1 starts!"
+  },
+  {
+    "number": 70,
+    "type":"game",
+    "playerCount": 1,
+    "text": "Everyone name a word that rhyme with 'hair'. First one who can't drinks! @1 starts!"
+  },
+  {
+    "number": 71,
+    "type":"truth",
+    "playerCount": 1,
+    "text": "Drink if you have ever failed an exam"
+  },
+  {
+    "number": 72,
+    "type":"dare",
+    "playerCount": 2,
+    "text": "@1 tell the group a secret about @2. Give a drink if you do, otherwise you drink!"
+  },
+  {
+    "number": 73,
+    "type":"dare",
+    "playerCount": 2,
+    "text": "@1 tell the group a secret about @2. Give a drink if you do, otherwise you drink!"
+  },
+  {
+    "number": 74,
+    "type":"dare",
+    "playerCount": 2,
+    "text": "@1 tell the group a secret about @2. Give a drink if you do, otherwise you drink!"
+  },
+  {
+    "number": 75,
+    "type":"truth",
+    "playerCount": 0,
+    "text": "Drink if you're in a fraternity"
+  },
+  {
+    "number": 76,
+    "type":"truth",
+    "playerCount": 0,
+    "text": "Drink if you're in a sorority"
+  },
+  {
+    "number": 77,
+    "type":"truth",
+    "playerCount": 0,
+    "text": "Drink if you have ever rushed a fraternity"
+  },
+  {
+    "number": 78,
+    "type":"truth",
+    "playerCount": 0,
+    "text": "Drink if you have ever puked at a bar"
+  },
+  {
+    "number": 79,
+    "type":"game",
+    "playerCount": 0,
+    "text": "The next person to smile drinks!"
+  },
+  {
+    "number": 80,
+    "type":"generic",
+    "playerCount": 0,
+    "text": "Drink for each state you've visited"
+  },
+  {
+    "number": 81,
+    "type":"truth",
+    "playerCount": 1,
+    "text": "@1 share an embarrassing secret with the group or drink"
+  },
+  {
+    "number": 82,
+    "type":"truth",
+    "playerCount": 0,
+    "text": "Drink if you've ever faked an orgasm"
+  },
+  {
+    "number": 83,
+    "type":"truth",
+    "playerCount": 0,
+    "text": "Drink for each pregnancy scare you've had"
+  },
+  {
+    "number": 84,
+    "type":"truth",
+    "playerCount": 0,
+    "text": "Drink if you're in a relationship, drink twice if it's complicated"
+  }
+
+]
