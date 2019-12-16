@@ -25,7 +25,9 @@ dependencies:
   cupertino_icons: ^0.1.2
   url_launcher: ^4.0.3
   flutter_launcher_icons: ^0.7.2
-  flutter_swiper : ^1.1.5
+  flutter_swiper :
+    git:
+      url: https://github.com/bayanijulian/flutter_swiper
 
 dev_dependencies:
   flutter_test:
